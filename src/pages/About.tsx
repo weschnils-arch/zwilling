@@ -93,7 +93,7 @@ export default function About() {
           ref={parallaxRef}
           src="/images/ak-3942.webp"
           alt="Anne-Katrin beim Reiten"
-          className="absolute inset-0 w-full h-[130%] object-cover -top-[15%]"
+          className="absolute inset-0 w-full h-[130%] object-cover object-[center_20%] -top-[15%]"
           loading="lazy"
         />
       </section>
